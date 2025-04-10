@@ -54,7 +54,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel='stylesheet' id='e-animation-fadeInLeft-css' href="{{ asset('themes/css/fadeInLeft.min.css') }}"/>
 <link rel='stylesheet' id='widget-progress-css' href="{{ asset('themes/css/widget-progress.min.css') }}"/>
 <link rel='stylesheet' id='widget-counter-css' href="{{ asset('themes/css/widget-counter.min.css') }}"/>
-<link rel='stylesheet' href="{{ asset('themes/css/post-14.css') }}" />
+<!-- <link rel='stylesheet' href="{{ asset('themes/css/post-14.css') }}" /> -->
 <link rel='stylesheet' id='widget-star-rating-css' href="{{ asset('themes/css/widget-star-rating.min.css') }}"/>
 <link rel='stylesheet' id='widget-testimonial-css' href="{{ asset('themes/css/widget-testimonial.min.css') }}"/>
 <link rel='stylesheet' id='widget-divider-css' href="{{ asset('themes/css/widget-divider.min.css') }}"/>
