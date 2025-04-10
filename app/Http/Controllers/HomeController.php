@@ -15,9 +15,9 @@ class HomeController extends Controller
 	public function home(Request $request)
     {
         try{
-            $metaDataDetail['title'] = 'Home';
-            $metaDataDetail['description'] = 'Home';
-            $metaDataDetail['keyword'] = 'Home';
+            $metaDataDetail['title'] = 'Home - '.config('app.name');
+            $metaDataDetail['description'] = 'Home - '.config('app.name');
+            $metaDataDetail['keyword'] = 'Home - '.config('app.name');
             return view('front.home', compact('metaDataDetail'));
         } catch (\Exception $e) {
             return redirect()->route('home')->with('error', 'Server error');
@@ -27,9 +27,9 @@ class HomeController extends Controller
     public function aboutUs(Request $request)
     {
         try{
-            $metaDataDetail['title'] = 'About Us';
-            $metaDataDetail['description'] = 'About Us';
-            $metaDataDetail['keyword'] = 'About Us';
+            $metaDataDetail['title'] = 'About Us - '.config('app.name');
+            $metaDataDetail['description'] = 'About Us - '.config('app.name');
+            $metaDataDetail['keyword'] = 'About Us - '.config('app.name');
             return view('front.about-us', compact('metaDataDetail'));
         } catch (\Exception $e) {
             return redirect()->route('home')->with('error', 'Server error');
@@ -39,9 +39,9 @@ class HomeController extends Controller
     public function contactUs(Request $request)
     {
         try{
-            $metaDataDetail['title'] = 'Contact Us';
-            $metaDataDetail['description'] = 'Contact Us';
-            $metaDataDetail['keyword'] = 'Contact Us';
+            $metaDataDetail['title'] = 'Contact Us - '.config('app.name');
+            $metaDataDetail['description'] = 'Contact Us - '.config('app.name');
+            $metaDataDetail['keyword'] = 'Contact Us - '.config('app.name');
             return view('front.contact-us', compact('metaDataDetail'));
         } catch (\Exception $e) {
             return redirect()->route('home')->with('error', 'Server error');

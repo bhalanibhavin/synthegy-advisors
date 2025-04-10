@@ -16,7 +16,12 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Synthegy Advisors'),
+
+    'contact_number_1' => env('CONTACT_NUMBER_1', ''),
+    'contact_number_2' => env('CONTACT_NUMBER_2', ''),
+    'contact_email' => env('CONTACT_EMAIL', ''),
+    'contact_address' => env('CONTACT_ADDRESS', ''),
 
     /*
     |--------------------------------------------------------------------------

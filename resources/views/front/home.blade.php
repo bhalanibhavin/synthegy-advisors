@@ -5,104 +5,29 @@
 @section('pagelevelcss')
 @stop
 @section('content')
-<div data-elementor-type="header" data-elementor-id="34" class="elementor elementor-34 elementor-location-header" data-elementor-post-type="elementor_library">
-	<section class="elementor-section elementor-top-section elementor-element elementor-element-45f794f1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45f794f1" data-element_type="section">
-	   <div class="elementor-container elementor-column-gap-default">
-		  <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1102175f" data-id="1102175f" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-21a5391a elementor-invisible elementor-widget elementor-widget-image" data-id="21a5391a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
-				   <div class="elementor-widget-container">
-					  <img fetchpriority="high" width="1080" height="1080" src="{{ asset('themes/image/COMPLETE-AD1.png') }}" class="attachment-full size-full wp-image-877" alt="" srcset="{{ asset('themes/image/COMPLETE-AD1.png') }} 1080w, {{ asset('themes/image/COMPLETE-AD1-300x300.png') }} 300w, {{ asset('themes/image/COMPLETE-AD1-1024x1024.png') }} 1024w, {{ asset('themes/image/COMPLETE-AD1-150x150.png') }} 150w, {{ asset('themes/image/COMPLETE-AD1-768x768.png') }} 768w" sizes="(max-width: 1080px) 100vw, 1080px" />															
-				   </div>
-				</div>
-			 </div>
-		  </div>
-		  <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a8aec9f" data-id="2a8aec9f" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-391d6828 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-invisible elementor-widget elementor-widget-nav-menu" data-id="391d6828" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
-				   <div class="elementor-widget-container">
-					  <nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
-						 <ul id="menu-1-391d6828" class="elementor-nav-menu">
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="https://accountumindia.in/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://accountumindia.in/about-us/" class="elementor-item">About Us</a></li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-659">
-							   <a href="#" class="elementor-item elementor-item-anchor">Services</a>
-							   <ul class="sub-menu elementor-nav-menu--dropdown">
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a href="https://accountumindia.in/accounting/" class="elementor-sub-item">Accounting</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="https://accountumindia.in/itr-filing/" class="elementor-sub-item">ITR Filing</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="https://accountumindia.in/tds-tcs-return/" class="elementor-sub-item">TDS &amp; TCS Return</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="https://accountumindia.in/iec-registration/" class="elementor-sub-item">IEC Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="https://accountumindia.in/esic-registration/" class="elementor-sub-item">ESIC Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a href="https://accountumindia.in/epf-registration/" class="elementor-sub-item">EPF Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="https://accountumindia.in/msme-registration/" class="elementor-sub-item">MSME Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-657"><a href="https://accountumindia.in/gst-registration/" class="elementor-sub-item">GST Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://accountumindia.in/payroll-management/" class="elementor-sub-item">Payroll Management</a></li>
-							   </ul>
-							</li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://accountumindia.in/testimonials/" class="elementor-item">Testimonials</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://accountumindia.in/contact-us/" class="elementor-item">Contact Us</a></li>
-						 </ul>
-					  </nav>
-					  <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-						 <svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
-							<path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path>
-						 </svg>
-						 <svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
-							<path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path>
-						 </svg>
-					  </div>
-					  <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-						 <ul id="menu-2-391d6828" class="elementor-nav-menu">
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="https://accountumindia.in/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://accountumindia.in/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-659">
-							   <a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Services</a>
-							   <ul class="sub-menu elementor-nav-menu--dropdown">
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a href="https://accountumindia.in/accounting/" class="elementor-sub-item" tabindex="-1">Accounting</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="https://accountumindia.in/itr-filing/" class="elementor-sub-item" tabindex="-1">ITR Filing</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="https://accountumindia.in/tds-tcs-return/" class="elementor-sub-item" tabindex="-1">TDS &amp; TCS Return</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="https://accountumindia.in/iec-registration/" class="elementor-sub-item" tabindex="-1">IEC Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="https://accountumindia.in/esic-registration/" class="elementor-sub-item" tabindex="-1">ESIC Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a href="https://accountumindia.in/epf-registration/" class="elementor-sub-item" tabindex="-1">EPF Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="https://accountumindia.in/msme-registration/" class="elementor-sub-item" tabindex="-1">MSME Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-657"><a href="https://accountumindia.in/gst-registration/" class="elementor-sub-item" tabindex="-1">GST Registration</a></li>
-								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://accountumindia.in/payroll-management/" class="elementor-sub-item" tabindex="-1">Payroll Management</a></li>
-							   </ul>
-							</li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://accountumindia.in/testimonials/" class="elementor-item" tabindex="-1">Testimonials</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://accountumindia.in/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
-						 </ul>
-					  </nav>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-	   </div>
-	</section>
- </div>
- <div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12" data-elementor-post-type="page">
+<div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12" data-elementor-post-type="page">
 	<section class="elementor-section elementor-top-section elementor-element elementor-element-3f14da73 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3f14da73" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 	   <div class="elementor-container elementor-column-gap-default">
 		  <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4ea4a518" data-id="4ea4a518" data-element_type="column">
 			 <div class="elementor-widget-wrap elementor-element-populated">
 				<div class="elementor-element elementor-element-7243ddb1 elementor-invisible elementor-widget elementor-widget-heading" data-id="7243ddb1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="heading.default">
 				   <div class="elementor-widget-container">
-					  <h1 class="elementor-heading-title elementor-size-default">Welcome to Accountum India  Your Trusted Accounting Partner</h1>
+					  <h1 class="elementor-heading-title elementor-size-default">Welcome to {{ config('app.name') }}  Your Trusted Accounting Partner</h1>
 				   </div>
 				</div>
 				<div class="elementor-element elementor-element-cf1f287 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="cf1f287" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
 				   <div class="elementor-widget-container">
-					  <p>At Accountum India, we simplify your financial journey with professional, accurate, and reliable accounting solutions. Whether you are a small business owner, an entrepreneur, or an established company, our expert team is here to handle all your accounting needs with precision and transparency. Let us take the stress out of numbers so you can focus on growing your business.</p>
+					  <p>At {{ config('app.name') }}, we simplify your financial journey with professional, accurate, and reliable accounting solutions. Whether you are a small business owner, an entrepreneur, or an established company, our expert team is here to handle all your accounting needs with precision and transparency. Let us take the stress out of numbers so you can focus on growing your business.</p>
 				   </div>
 				</div>
 				<div class="elementor-element elementor-element-6bca493a elementor-mobile-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="6bca493a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
 				   <div class="elementor-widget-container">
 					  <div class="elementor-button-wrapper">
-						 <a class="elementor-button elementor-button-link elementor-size-md elementor-animation-float" href="#">
+						 <!-- <a class="elementor-button elementor-button-link elementor-size-md elementor-animation-float" href="#">
 						 <span class="elementor-button-content-wrapper">
 						 <span class="elementor-button-text">Get Started</span>
 						 </span>
-						 </a>
+						 </a> -->
 					  </div>
 				   </div>
 				</div>
@@ -665,7 +590,7 @@
 							</div>
 							<div class="elementor-element elementor-element-92a7793 elementor-widget elementor-widget-text-editor" data-id="92a7793" data-element_type="widget" data-widget_type="text-editor.default">
 							   <div class="elementor-widget-container">
-								  <p>At Accountum India, We provide complete income tax solutions including tax preparation, planning, and filing.</p>
+								  <p>At {{ config('app.name') }}, We provide complete income tax solutions including tax preparation, planning, and filing.</p>
 							   </div>
 							</div>
 							<div class="elementor-element elementor-element-a191d53 elementor-widget elementor-widget-button" data-id="a191d53" data-element_type="widget" data-widget_type="button.default">
@@ -712,7 +637,7 @@
 				</div>
 				<div class="elementor-element elementor-element-0d569c7 elementor-widget elementor-widget-text-editor" data-id="0d569c7" data-element_type="widget" data-widget_type="text-editor.default">
 				   <div class="elementor-widget-container">
-					  <p>Accountum India is a leading accounting firm dedicated to delivering exceptional financial services across India. With years of experience in managing accounts, payroll, tax planning, and compliance, we take pride in our attention to detail and commitment to excellence. Our mission is to empower businesses with clear financial insights, robust strategies, and comprehensive support.<br /><br />Our Mission To empower businesses and individuals with accurate, reliable, and efficient accounting solutions that drive financial success.</p>
+					  <p>{{ config('app.name') }} is a leading accounting firm dedicated to delivering exceptional financial services across India. With years of experience in managing accounts, payroll, tax planning, and compliance, we take pride in our attention to detail and commitment to excellence. Our mission is to empower businesses with clear financial insights, robust strategies, and comprehensive support.<br /><br />Our Mission To empower businesses and individuals with accurate, reliable, and efficient accounting solutions that drive financial success.</p>
 				   </div>
 				</div>
 				<div class="elementor-element elementor-element-5ea3b8e elementor-widget elementor-widget-progress" data-id="5ea3b8e" data-element_type="widget" data-widget_type="progress.default">
@@ -755,225 +680,11 @@
 		  </div>
 	   </div>
 	</section>
-	<section class="elementor-section elementor-top-section elementor-element elementor-element-093994b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="093994b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-	   <div class="elementor-container elementor-column-gap-default">
-		  <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7c9e429" data-id="7c9e429" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-11a6251 elementor-widget elementor-widget-counter" data-id="11a6251" data-element_type="widget" data-widget_type="counter.default">
-				   <div class="elementor-widget-container">
-					  <div class="elementor-counter">
-						 <div class="elementor-counter-title">Projects</div>
-						 <div class="elementor-counter-number-wrapper">
-							<span class="elementor-counter-number-prefix"></span>
-							<span class="elementor-counter-number" data-duration="2000" data-to-value="250" data-from-value="0" data-delimiter=",">0</span>
-							<span class="elementor-counter-number-suffix">+</span>
-						 </div>
-					  </div>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-		  <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-21957f4" data-id="21957f4" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-4af4d75 elementor-widget elementor-widget-counter" data-id="4af4d75" data-element_type="widget" data-widget_type="counter.default">
-				   <div class="elementor-widget-container">
-					  <div class="elementor-counter">
-						 <div class="elementor-counter-title">Clients</div>
-						 <div class="elementor-counter-number-wrapper">
-							<span class="elementor-counter-number-prefix"></span>
-							<span class="elementor-counter-number" data-duration="2000" data-to-value="600" data-from-value="0" data-delimiter=",">0</span>
-							<span class="elementor-counter-number-suffix">+</span>
-						 </div>
-					  </div>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-		  <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0bf25ed" data-id="0bf25ed" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-2bdea39 elementor-widget elementor-widget-counter" data-id="2bdea39" data-element_type="widget" data-widget_type="counter.default">
-				   <div class="elementor-widget-container">
-					  <div class="elementor-counter">
-						 <div class="elementor-counter-title">Years Experience</div>
-						 <div class="elementor-counter-number-wrapper">
-							<span class="elementor-counter-number-prefix"></span>
-							<span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
-							<span class="elementor-counter-number-suffix">+</span>
-						 </div>
-					  </div>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-		  <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-8acb60c" data-id="8acb60c" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-8c98b39 elementor-widget elementor-widget-counter" data-id="8c98b39" data-element_type="widget" data-widget_type="counter.default">
-				   <div class="elementor-widget-container">
-					  <div class="elementor-counter">
-						 <div class="elementor-counter-title">Awards Winning</div>
-						 <div class="elementor-counter-number-wrapper">
-							<span class="elementor-counter-number-prefix"></span>
-							<span class="elementor-counter-number" data-duration="2000" data-to-value="12" data-from-value="0" data-delimiter=",">0</span>
-							<span class="elementor-counter-number-suffix"></span>
-						 </div>
-					  </div>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-	   </div>
-	</section>
-	<section class="elementor-section elementor-top-section elementor-element elementor-element-368c800 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="368c800" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-	   <div class="elementor-container elementor-column-gap-default">
-		  <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2152cd9b" data-id="2152cd9b" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-17fde17a elementor-invisible elementor-widget elementor-widget-heading" data-id="17fde17a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				   <div class="elementor-widget-container">
-					  <h2 class="elementor-heading-title elementor-size-default">Why Choose Us</h2>
-				   </div>
-				</div>
-				<div class="elementor-element elementor-element-7494b31d elementor-invisible elementor-widget elementor-widget-image" data-id="7494b31d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
-				   <div class="elementor-widget-container">
-					  <img loading="lazy" decoding="async" width="52" height="12" src="{{ asset('themes/image/divider.png') }}" class="attachment-large size-large wp-image-50" alt="" />															
-				   </div>
-				</div>
-				<div class="elementor-element elementor-element-6eee969c elementor-widget elementor-widget-text-editor" data-id="6eee969c" data-element_type="widget" data-widget_type="text-editor.default">
-				   <div class="elementor-widget-container">
-					  <p>We provide high-quality services at competitive prices, ensuring value without compromising on quality.</p>
-				   </div>
-				</div>
-				<div class="elementor-element elementor-element-1e960ae5 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1e960ae5" data-element_type="widget" data-widget_type="icon-list.default">
-				   <div class="elementor-widget-container">
-					  <ul class="elementor-icon-list-items">
-						 <li class="elementor-icon-list-item">
-							<span class="elementor-icon-list-icon">
-							   <svg aria-hidden="true" class="e-font-icon-svg e-far-check-circle" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-								  <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z"></path>
-							   </svg>
-							</span>
-							<span class="elementor-icon-list-text">Quality Commitment</span>
-						 </li>
-						 <li class="elementor-icon-list-item">
-							<span class="elementor-icon-list-icon">
-							   <svg aria-hidden="true" class="e-font-icon-svg e-far-check-circle" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-								  <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z"></path>
-							   </svg>
-							</span>
-							<span class="elementor-icon-list-text">Experienced Team</span>
-						 </li>
-						 <li class="elementor-icon-list-item">
-							<span class="elementor-icon-list-icon">
-							   <svg aria-hidden="true" class="e-font-icon-svg e-far-check-circle" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-								  <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z"></path>
-							   </svg>
-							</span>
-							<span class="elementor-icon-list-text">Honest & Dependable</span>
-						 </li>
-					  </ul>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-		  <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-549b954a" data-id="549b954a" data-element_type="column">
-			 <div class="elementor-widget-wrap elementor-element-populated">
-				<div class="elementor-element elementor-element-4efd8b1c elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="4efd8b1c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				   <div class="elementor-widget-container">
-					  <img loading="lazy" decoding="async" width="132" height="192" src="{{ asset('themes/image/dots.png') }}" class="attachment-large size-large wp-image-29" alt="" />															
-				   </div>
-				</div>
-				<div class="elementor-element elementor-element-3aa1679c elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="3aa1679c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				   <div class="elementor-widget-container">
-					  <img loading="lazy" decoding="async" width="132" height="192" src="{{ asset('themes/image/dots.png') }}" class="attachment-large size-large wp-image-29" alt="" />															
-				   </div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-42554ea7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="42554ea7" data-element_type="section">
-				   <div class="elementor-container elementor-column-gap-default">
-					  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-70f26203 elementor-invisible" data-id="70f26203" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						 <div class="elementor-widget-wrap elementor-element-populated">
-							<div class="elementor-element elementor-element-24a073cb elementor-widget elementor-widget-image" data-id="24a073cb" data-element_type="widget" data-widget_type="image.default">
-							   <div class="elementor-widget-container">
-								  <img loading="lazy" decoding="async" width="87" height="87" src="{{ asset('themes/image/icon-taskcart.png') }}" class="attachment-large size-large wp-image-58" alt="" />															
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-40f17298 elementor-widget elementor-widget-heading" data-id="40f17298" data-element_type="widget" data-widget_type="heading.default">
-							   <div class="elementor-widget-container">
-								  <h3 class="elementor-heading-title elementor-size-default">Expertise</h3>
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-2f73d663 elementor-widget elementor-widget-text-editor" data-id="2f73d663" data-element_type="widget" data-widget_type="text-editor.default">
-							   <div class="elementor-widget-container">
-								  <p>Our team of experienced accountants and financial specialists brings extensive knowledge across various fields, from tax planning to regulatory compliance. </p>
-							   </div>
-							</div>
-						 </div>
-					  </div>
-					  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-433b14ed elementor-invisible" data-id="433b14ed" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						 <div class="elementor-widget-wrap elementor-element-populated">
-							<div class="elementor-element elementor-element-6c0ed840 elementor-widget elementor-widget-image" data-id="6c0ed840" data-element_type="widget" data-widget_type="image.default">
-							   <div class="elementor-widget-container">
-								  <img loading="lazy" decoding="async" width="98" height="98" src="https://accountumindia.in/wp-content/uploads/2024/11/icon-puzzle.png" class="attachment-large size-large wp-image-59" alt="" />															
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-35a391c elementor-widget elementor-widget-heading" data-id="35a391c" data-element_type="widget" data-widget_type="heading.default">
-							   <div class="elementor-widget-container">
-								  <h3 class="elementor-heading-title elementor-size-default">Data Security</h3>
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-23a30dc3 elementor-widget elementor-widget-text-editor" data-id="23a30dc3" data-element_type="widget" data-widget_type="text-editor.default">
-							   <div class="elementor-widget-container">
-								  <p>Your financial data is safe with us. We adhere to the highest standards of confidentiality and implement strong security measures to protect your information, giving you peace of mind and trust in our services.</p>
-							   </div>
-							</div>
-						 </div>
-					  </div>
-				   </div>
-				</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6cba5190 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6cba5190" data-element_type="section">
-				   <div class="elementor-container elementor-column-gap-default">
-					  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5578ed9 elementor-invisible" data-id="5578ed9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						 <div class="elementor-widget-wrap elementor-element-populated">
-							<div class="elementor-element elementor-element-7de7930f elementor-widget elementor-widget-image" data-id="7de7930f" data-element_type="widget" data-widget_type="image.default">
-							   <div class="elementor-widget-container">
-								  <img loading="lazy" decoding="async" width="98" height="98" src="https://accountumindia.in/wp-content/uploads/2024/11/icon-puzzle.png" class="attachment-large size-large wp-image-59" alt="" />															
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-6db934b6 elementor-widget elementor-widget-heading" data-id="6db934b6" data-element_type="widget" data-widget_type="heading.default">
-							   <div class="elementor-widget-container">
-								  <h3 class="elementor-heading-title elementor-size-default">Wide Range of Services</h3>
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-66e4ee06 elementor-widget elementor-widget-text-editor" data-id="66e4ee06" data-element_type="widget" data-widget_type="text-editor.default">
-							   <div class="elementor-widget-container">
-								  <p>Accountum India offers a one-stop solution for all your financial needs, from accounting and bookkeeping to GST, income tax, payroll, and compliance services. </p>
-							   </div>
-							</div>
-						 </div>
-					  </div>
-					  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5c4f9eeb elementor-invisible" data-id="5c4f9eeb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						 <div class="elementor-widget-wrap elementor-element-populated">
-							<div class="elementor-element elementor-element-2f9e6bdb elementor-widget elementor-widget-image" data-id="2f9e6bdb" data-element_type="widget" data-widget_type="image.default">
-							   <div class="elementor-widget-container">
-								  <img loading="lazy" decoding="async" width="97" height="97" src="{{ asset('themes/image/icon-winning.png') }}" class="attachment-large size-large wp-image-60" alt="" />															
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-52cebf23 elementor-widget elementor-widget-heading" data-id="52cebf23" data-element_type="widget" data-widget_type="heading.default">
-							   <div class="elementor-widget-container">
-								  <h3 class="elementor-heading-title elementor-size-default">Commitment to Client Success</h3>
-							   </div>
-							</div>
-							<div class="elementor-element elementor-element-8aa2028 elementor-widget elementor-widget-text-editor" data-id="8aa2028" data-element_type="widget" data-widget_type="text-editor.default">
-							   <div class="elementor-widget-container">
-								  <p>At Accountum India, your success is our success, and we are dedicated to helping you achieve your business goals.</p>
-							   </div>
-							</div>
-						 </div>
-					  </div>
-				   </div>
-				</section>
-			 </div>
-		  </div>
-	   </div>
-	</section>
+	
+	@include('front.layout.project-count')
+
+	@include('front.layout.why-choose-us')
+
 	<section class="elementor-section elementor-top-section elementor-element elementor-element-2e185926 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e185926" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 	   <div class="elementor-container elementor-column-gap-default">
 		  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-66990268" data-id="66990268" data-element_type="column">
@@ -1002,7 +713,7 @@
 							<div class="elementor-element elementor-element-5ce03940 elementor-widget elementor-widget-testimonial" data-id="5ce03940" data-element_type="widget" data-widget_type="testimonial.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-testimonial-wrapper">
-									 <div class="elementor-testimonial-content">Accountum India has been a game-changer for our business. Their expertise in GST and tax compliance has saved us time and stress. We appreciate their transparency and clear communication – they are truly our financial partners.</div>
+									 <div class="elementor-testimonial-content">{{ config('app.name') }} has been a game-changer for our business. Their expertise in GST and tax compliance has saved us time and stress. We appreciate their transparency and clear communication – they are truly our financial partners.</div>
 									 <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 										<div class="elementor-testimonial-meta-inner">
 										   <div class="elementor-testimonial-image">
@@ -1030,7 +741,7 @@
 							<div class="elementor-element elementor-element-78e4ae7f elementor-widget-mobile__width-initial elementor-widget elementor-widget-testimonial" data-id="78e4ae7f" data-element_type="widget" data-widget_type="testimonial.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-testimonial-wrapper">
-									 <div class="elementor-testimonial-content">The team at Accountum India goes above and beyond to ensure that our finances are in order. They’ve helped us with everything from payroll to tax planning, and their proactive approach has been invaluable to our company’s growth. Highly recommended!</div>
+									 <div class="elementor-testimonial-content">The team at {{ config('app.name') }} goes above and beyond to ensure that our finances are in order. They’ve helped us with everything from payroll to tax planning, and their proactive approach has been invaluable to our company’s growth. Highly recommended!</div>
 									 <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 										<div class="elementor-testimonial-meta-inner">
 										   <div class="elementor-testimonial-image">
@@ -1084,7 +795,7 @@
 							Call Us						</span>
 						 </h3>
 						 <p class="elementor-icon-box-description">
-							+91-7878340338 | +91-8200442870
+						 	<a href="tel:{{ config('app.contact_number_1') }}" style="width: auto;">{{ config('app.contact_number_1') }}</a> | <a href="tel:{{ config('app.contact_number_2') }}">{{ config('app.contact_number_2') }}</a>
 						 </p>
 					  </div>
 				   </div>
@@ -1106,7 +817,7 @@
 							Email us						</span>
 						 </h3>
 						 <p class="elementor-icon-box-description">
-							ABHIJEETGIRI85@GMAIL.COM					
+						 	<a href="mailto:{{ config('app.contact_email') }}">{{ config('app.contact_email') }}</a>
 						 </p>
 					  </div>
 				   </div>
@@ -1127,14 +838,12 @@
 							<span  >
 							Head Office						</span>
 						 </div>
-						 <p class="elementor-icon-box-description">
-							Shed No. 202, Raghuveen Industrial Estate-3, Behind Platinum Industrial Park, Vibhag-1, Opp. Vatva Railway Station, Vatva, Ahmedabad-382445					
-						 </p>
+						 <p class="elementor-icon-box-description">{{ config('app.contact_address') }}</p>
 					  </div>
 				   </div>
 				</div>
 			 </div>
-			 <div class="elementor-element elementor-element-c43f07d elementor-position-left elementor-mobile-position-left elementor-view-stacked elementor-shape-circle elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c43f07d" data-element_type="widget" data-widget_type="icon-box.default">
+			 <!-- <div class="elementor-element elementor-element-c43f07d elementor-position-left elementor-mobile-position-left elementor-view-stacked elementor-shape-circle elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c43f07d" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 				   <div class="elementor-icon-box-wrapper">
 					  <div class="elementor-icon-box-icon">
@@ -1149,13 +858,11 @@
 							<span  >
 							Branch						</span>
 						 </div>
-						 <p class="elementor-icon-box-description">
-							H. No. 276b , Bagmugaliya Nr Indian Petrol Pump, 80 Ft Road, Bagmugalia, Bhopal-462043
-						 </p>
+						 <p class="elementor-icon-box-description">{{ config('app.contact_address') }}</p>
 					  </div>
 				   </div>
 				</div>
-			 </div>
+			 </div> -->
 		  </div>
 		  <div class="elementor-element elementor-element-683bcee e-con-full e-flex e-con e-child" data-id="683bcee" data-element_type="container">
 			 <div class="elementor-element elementor-element-d6c8a16 elementor-widget elementor-widget-heading" data-id="d6c8a16" data-element_type="widget" data-widget_type="heading.default">
@@ -1168,7 +875,7 @@
 				   <form class="elementor-form" method="post" name="New Form">
 					  <input type="hidden" name="post_id" value="12"/>
 					  <input type="hidden" name="form_id" value="41d4f60"/>
-					  <input type="hidden" name="referer_title" value="Home - Accountum India" />
+					  <input type="hidden" name="referer_title" value="Home - {{ config('app.name') }}" />
 					  <input type="hidden" name="queried_id" value="12"/>
 					  <div class="elementor-form-fields-wrapper elementor-labels-above">
 						 <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
@@ -1224,9 +931,9 @@
 				<div class="elementor-widget-container">
 				   <div class="elementor-custom-embed">
 					  <iframe loading="lazy"
-						 src="https://maps.google.com/maps?q=Accountum%20india%2C%2032%20GOKUL%20DHAM%20NR%20WATER%20TANK%20BACHU%20BHAI%20KUVA%2C%20VATVA%20%2C%20AHMEDABAD-382445&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
-						 title="Accountum india, 32 GOKUL DHAM NR WATER TANK BACHU BHAI KUVA, VATVA , AHMEDABAD-382445"
-						 aria-label="Accountum india, 32 GOKUL DHAM NR WATER TANK BACHU BHAI KUVA, VATVA , AHMEDABAD-382445"
+						 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.0541796468924!2d72.53652737617665!3d23.058475179148658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e855d754079cd%3A0x56eb1329773be8e8!2sSolaris%20Business%20Hub!5e0!3m2!1sen!2sin!4v1744308594078!5m2!1sen!2sin"
+						 title="{{ config('app.name') }}, {{ config('app.contact_address') }}"
+						 aria-label="{{ config('app.name') }}, {{ config('app.contact_address') }}"
 						 ></iframe>
 				   </div>
 				</div>
@@ -1238,8 +945,8 @@
 				   <div class="elementor-custom-embed">
 					  <iframe loading="lazy"
 						 src="https://maps.google.com/maps?q=Accountum%20india%2C%20H.%20NO.%20276B%20%2C%20BAGMUGALIYA%20NR%20INDIAN%20PETROL%20PUMP%2C%2080%20FT%20ROAD%2C%20BAGMUGALIA%2C%20BHOPAL-462043&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
-						 title="Accountum india, H. NO. 276B , BAGMUGALIYA NR INDIAN PETROL PUMP, 80 FT ROAD, BAGMUGALIA, BHOPAL-462043"
-						 aria-label="Accountum india, H. NO. 276B , BAGMUGALIYA NR INDIAN PETROL PUMP, 80 FT ROAD, BAGMUGALIA, BHOPAL-462043"
+						 title="{{ config('app.name') }}, {{ config('app.contact_address') }}"
+						 aria-label="{{ config('app.name') }}, {{ config('app.contact_address') }}"
 						 ></iframe>
 				   </div>
 				</div>
@@ -1383,23 +1090,25 @@
 							   <div class="elementor-widget-container">
 								  <ul class="elementor-icon-list-items">
 									 <li class="elementor-icon-list-item">
-										<a href="#">
+										<a href="#" style="width: 5%;">
 										   <span class="elementor-icon-list-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 												 <path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path>
 											  </svg>
 										   </span>
-										   <span class="elementor-icon-list-text">+91-7878340338, +91-8200442870  </span>
+										   	<span class="elementor-icon-list-text">
+											   <a href="tel:{{ config('app.contact_number_1') }}" style="width: auto;">{{ config('app.contact_number_1') }}</a>, <a href="tel:{{ config('app.contact_number_2') }}">{{ config('app.contact_number_2') }}</a>
+											</span>
 										</a>
 									 </li>
 									 <li class="elementor-icon-list-item">
-										<a href="#">
+										<a href="mailto:{{ config('app.contact_email') }}">
 										   <span class="elementor-icon-list-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-far-envelope" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 												 <path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
 											  </svg>
 										   </span>
-										   <span class="elementor-icon-list-text">abhijeetgiri85@gmail.com</span>
+										   <span class="elementor-icon-list-text">{{ config('app.contact_email') }}</span>
 										</a>
 									 </li>
 									 <li class="elementor-icon-list-item">
@@ -1408,16 +1117,16 @@
 											  <path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path>
 										   </svg>
 										</span>
-										<span class="elementor-icon-list-text">Head Office - Shed No. 202, Raghuveen Industrial Estate-3, Behind Platinum Industrial Park, Vibhag-1, Opp. Vatva Railway Station, Vatva, Ahmedabad-382445</span>
+										<span class="elementor-icon-list-text">Head Office - {{ config('app.contact_address') }}</span>
 									 </li>
-									 <li class="elementor-icon-list-item">
+									 <!-- <li class="elementor-icon-list-item">
 										<span class="elementor-icon-list-icon">
 										   <svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg">
 											  <path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path>
 										   </svg>
 										</span>
-										<span class="elementor-icon-list-text">Branch - H. No. 276b , Bagmugaliya Nr Indian Petrol Pump, 80 Ft Road, Bagmugalia, Bhopal-462043</span>
-									 </li>
+										<span class="elementor-icon-list-text">Branch - {{ config('app.contact_address') }}</span>
+									 </li> -->
 								  </ul>
 							   </div>
 							</div>
@@ -1465,7 +1174,7 @@
 						 <div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-320d87ac elementor-widget elementor-widget-heading" data-id="320d87ac" data-element_type="widget" data-widget_type="heading.default">
 							   <div class="elementor-widget-container">
-								  <p class="elementor-heading-title elementor-size-default"><a href="http://completead.in">copyright © 2024 Accountum India | All rights reserved | Design By Complete AD</a></p>
+								  <p class="elementor-heading-title elementor-size-default"><a href="#">copyright © 2024 {{ config('app.name') }} | All rights reserved | Design By Complete AD</a></p>
 							   </div>
 							</div>
 						 </div>
@@ -1504,7 +1213,7 @@
  </div>
  <span class="ht_ctc_chat_data" 
 	data-no_number=""
-	data-settings="{&quot;number&quot;:&quot;917878340338&quot;,&quot;pre_filled&quot;:&quot;&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 80px; right: 15px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 80px; right: 15px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animations&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;click to chat&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}" 
+	data-settings="{&quot;number&quot;:&quot;{{ config('app.contact_number_1') }}&quot;,&quot;pre_filled&quot;:&quot;&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 80px; right: 15px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 80px; right: 15px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animations&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;click to chat&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}" 
 	></span>
  <script>
 	const lazyloadRunObserver = () => {
@@ -1533,8 +1242,7 @@
 	} );
  </script>
  <!-- Call Now Button 1.4.15 (https://callnowbutton.com) [renderer:modern]-->
- <a aria-label="Call Now Button" href="tel:7878340338" id="callnowbutton" class="call-now-button  cnb-zoom-100  cnb-zindex-10  cnb-single cnb-right cnb-displaymode cnb-displaymode-always" style="background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTI3LjAxMzU1LDIzLjQ4ODU5bC0xLjc1MywxLjc1MzA1YTUuMDAxLDUuMDAxLDAsMCwxLTUuMTk5MjgsMS4xODI0M2MtMS45NzE5My0uNjkzNzItNC44NzMzNS0yLjM2NDM4LTguNDM4NDgtNS45Mjk1UzYuMzg3LDE0LjAyOCw1LjY5MzMsMTIuMDU2MTVBNS4wMDA3OCw1LjAwMDc4LDAsMCwxLDYuODc1NzMsNi44NTY4N0w4LjYyODc4LDUuMTAzNzZhMSwxLDAsMCwxLDEuNDE0MzEuMDAwMTJsMi44MjgsMi44Mjg4QTEsMSwwLDAsMSwxMi44NzEsOS4zNDY4TDExLjA2NDcsMTEuMTUzYTEuMDAzOCwxLjAwMzgsMCwwLDAtLjA4MjEsMS4zMjE3MSw0MC43NDI3OCw0MC43NDI3OCwwLDAsMCw0LjA3NjI0LDQuNTgzNzQsNDAuNzQxNDMsNDAuNzQxNDMsMCwwLDAsNC41ODM3NCw0LjA3NjIzLDEuMDAzNzksMS4wMDM3OSwwLDAsMCwxLjMyMTcxLS4wODIwOWwxLjgwNjIyLTEuODA2MjdhMSwxLDAsMCwxLDEuNDE0MTItLjAwMDEybDIuODI4OCwyLjgyOEExLjAwMDA3LDEuMDAwMDcsMCwwLDEsMjcuMDEzNTUsMjMuNDg4NTlaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+); background-color:#008A00;"><span>Call Now Button</span></a>
- <link rel='stylesheet' id='elementor-icons-ekiticons-css' href="{{ asset('themes/css/ekiticons.css') }}"/>
+ <a aria-label="Call Now Button" href="tel:{{ config('app.contact_number_1') }}" id="callnowbutton" class="call-now-button  cnb-zoom-100  cnb-zindex-10  cnb-single cnb-right cnb-displaymode cnb-displaymode-always" style="background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTI3LjAxMzU1LDIzLjQ4ODU5bC0xLjc1MywxLjc1MzA1YTUuMDAxLDUuMDAxLDAsMCwxLTUuMTk5MjgsMS4xODI0M2MtMS45NzE5My0uNjkzNzItNC44NzMzNS0yLjM2NDM4LTguNDM4NDgtNS45Mjk1UzYuMzg3LDE0LjAyOCw1LjY5MzMsMTIuMDU2MTVBNS4wMDA3OCw1LjAwMDc4LDAsMCwxLDYuODc1NzMsNi44NTY4N0w4LjYyODc4LDUuMTAzNzZhMSwxLDAsMCwxLDEuNDE0MzEuMDAwMTJsMi44MjgsMi44Mjg4QTEsMSwwLDAsMSwxMi44NzEsOS4zNDY4TDExLjA2NDcsMTEuMTUzYTEuMDAzOCwxLjAwMzgsMCwwLDAtLjA4MjEsMS4zMjE3MSw0MC43NDI3OCw0MC43NDI3OCwwLDAsMCw0LjA3NjI0LDQuNTgzNzQsNDAuNzQxNDMsNDAuNzQxNDMsMCwwLDAsNC41ODM3NCw0LjA3NjIzLDEuMDAzNzksMS4wMDM3OSwwLDAsMCwxLjMyMTcxLS4wODIwOWwxLjgwNjIyLTEuODA2MjdhMSwxLDAsMCwxLDEuNDE0MTItLjAwMDEybDIuODI4OCwyLjgyOEExLjAwMDA3LDEuMDAwMDcsMCwwLDEsMjcuMDEzNTUsMjMuNDg4NTlaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+); background-color:#008A00;"><span>Call Now Button</span></a>
 @endsection
 @section('pageleveljs')
 @stop
