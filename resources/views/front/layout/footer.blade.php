@@ -63,22 +63,22 @@
 							   <div class="elementor-widget-container">
 								  <ul class="elementor-icon-list-items">
 									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/tds-tcs-return/">
+										<a href="{{ route('tds-tcs-return') }}" class="{{ request()->is('tds-tcs-return') ? 'elementor-item-active' : '' }}">
 										<span class="elementor-icon-list-text">TDS & TCS</span>
 										</a>
 									 </li>
 									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/epf-registration/">
+										<a href="{{ route('epf-registration') }}" class="{{ request()->is('epf-registration') ? 'elementor-item-active' : '' }}">
 										<span class="elementor-icon-list-text">EPF Registration</span>
 										</a>
 									 </li>
 									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/esic-registration/">
+										<a href="{{ route('esic-registration') }}" class="{{ request()->is('esic-registration') ? 'elementor-item-active' : '' }}">
 										<span class="elementor-icon-list-text">ESIC Registration</span>
 										</a>
 									 </li>
 									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/iec-registration/">
+										<a href="{{ route('iec-registration') }}" class="{{ request()->is('iec-registration') ? 'elementor-item-active' : '' }}">
 										<span class="elementor-icon-list-text">IEC Registration</span>
 										</a>
 									 </li>
@@ -93,27 +93,27 @@
 							   <div class="elementor-widget-container">
 								  <ul class="elementor-icon-list-items">
 									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/accounting/">
+										<a href="{{ route('accounting') }}" class="{{ request()->is('accounting') ? 'elementor-item-active' : '' }}">
 										<span class="elementor-icon-list-text">Accounting</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/gst-registration/">
+									 <li class="elementor-icon-list-item" class="{{ request()->is('gst-registration') ? 'elementor-item-active' : '' }}">
+										<a href="{{ route('gst-registration') }}">
 										<span class="elementor-icon-list-text">GST Services</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/itr-filling/">
+									 <li class="elementor-icon-list-item" class="{{ request()->is('itr-filing') ? 'elementor-item-active' : '' }}">
+										<a href="{{ route('itr-filing') }}">
 										<span class="elementor-icon-list-text">ITR Filing</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/msme-registration/">
+									 <li class="elementor-icon-list-item" class="{{ request()->is('msme-registration') ? 'elementor-item-active' : '' }}">
+										<a href="{{ route('msme-registration') }}">
 										<span class="elementor-icon-list-text">MSME Registration</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="https://accountumindia.in/payroll-management/">
+									 <li class="elementor-icon-list-item" class="{{ request()->is('payroll-management') ? 'elementor-item-active' : '' }}">
+										<a href="{{ route('payroll-management') }}">
 										<span class="elementor-icon-list-text">Payroll Management</span>
 										</a>
 									 </li>

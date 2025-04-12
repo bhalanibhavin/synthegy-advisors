@@ -1,9 +1,4 @@
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-<!-- <script type="application/ld+json" class="rank-math-schema-pro">
-    var url = '{{ asset('/') }}';
-    {"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://accountumindia.in/#person","name":"Accountum India"},{"@type":"WebSite","@id":"https://accountumindia.in/#website","url":"https://accountumindia.in","name":"Accountum India","publisher":{"@id":"https://accountumindia.in/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://accountumindia.in/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://accountumindia.in/wp-content/uploads/2024/11/icon-circle.png","url":"https://accountumindia.in/wp-content/uploads/2024/11/icon-circle.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://accountumindia.in/#webpage","url":"https://accountumindia.in/","name":"Home - Accountum India","datePublished":"2024-11-02T10:53:39+00:00","dateModified":"2025-02-18T12:54:56+00:00","about":{"@id":"https://accountumindia.in/#person"},"isPartOf":{"@id":"https://accountumindia.in/#website"},"primaryImageOfPage":{"@id":"https://accountumindia.in/wp-content/uploads/2024/11/icon-circle.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://accountumindia.in/author/enreta-ingmail-com/","name":"enreta.in@gmail.com","url":"https://accountumindia.in/author/enreta-ingmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/58c45a98f3509cbd4c47c63176fd9e6b?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/58c45a98f3509cbd4c47c63176fd9e6b?s=96&amp;d=mm&amp;r=g","caption":"enreta.in@gmail.com","inLanguage":"en-US"},"sameAs":["http://accountumindia.in"]},{"@type":"Article","headline":"Home - Accountum India","keywords":"Accountum India","datePublished":"2024-11-02T10:53:39+00:00","dateModified":"2025-02-18T12:54:56+00:00","author":{"@id":"https://accountumindia.in/author/enreta-ingmail-com/","name":"enreta.in@gmail.com"},"publisher":{"@id":"https://accountumindia.in/#person"},"description":"At Accountum India, we simplify your financial journey with professional, accurate, and reliable accounting solutions. Whether you are a small business owner,","name":"Home - Accountum India","@id":"https://accountumindia.in/#richSnippet","isPartOf":{"@id":"https://accountumindia.in/#webpage"},"image":{"@id":"https://accountumindia.in/wp-content/uploads/2024/11/icon-circle.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://accountumindia.in/#webpage"}}]}
-</script> -->
-<!-- /Rank Math WordPress SEO plugin -->
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/accountumindia.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
 /*! This file is auto-generated */
@@ -105,6 +100,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
         .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
             background-image: none !important;
         }
+    }
+
+    a.elementor-item-active {
+        color: #E98970 !important;
     }
 </style>
 <link rel="icon" href="{{ asset('themes/image/COMPLETE-AD5-150x150.jpg') }}" sizes="32x32" />

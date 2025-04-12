@@ -212,7 +212,7 @@
 							<div class="elementor-element elementor-element-7c1119de elementor-widget elementor-widget-button" data-id="7c1119de" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/accounting/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('accounting') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -259,7 +259,7 @@
 							<div class="elementor-element elementor-element-2f3c267c elementor-widget elementor-widget-button" data-id="2f3c267c" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/iec-registration/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('iec-registration') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -306,7 +306,7 @@
 							<div class="elementor-element elementor-element-37b83120 elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="37b83120" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/payroll-management/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('payroll-management') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -357,7 +357,7 @@
 							<div class="elementor-element elementor-element-87938e1 elementor-widget elementor-widget-button" data-id="87938e1" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/epf-registration/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('epf-registration') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -404,7 +404,7 @@
 							<div class="elementor-element elementor-element-8b67ab4 elementor-widget elementor-widget-button" data-id="8b67ab4" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/esic-registration/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('esic-registration') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -451,7 +451,7 @@
 							<div class="elementor-element elementor-element-8d274e2 elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="8d274e2" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/tds-tcs-return/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('tds-tcs-return') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -502,7 +502,7 @@
 							<div class="elementor-element elementor-element-3570315a elementor-widget elementor-widget-button" data-id="3570315a" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/gst-registration/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('gst-registration') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -549,7 +549,7 @@
 							<div class="elementor-element elementor-element-62946518 elementor-widget elementor-widget-button" data-id="62946518" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/msme-registration/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('msme-registration') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -596,7 +596,7 @@
 							<div class="elementor-element elementor-element-a191d53 elementor-widget elementor-widget-button" data-id="a191d53" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="https://accountumindia.in/itr-filling/">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('itr-filling') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">

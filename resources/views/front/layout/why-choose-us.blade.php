@@ -86,7 +86,7 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-6c0ed840 elementor-widget elementor-widget-image" data-id="6c0ed840" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="98" height="98" src="https://accountumindia.in/wp-content/uploads/2024/11/icon-puzzle.png" class="attachment-large size-large wp-image-59" alt="" />															
+                                <img loading="lazy" decoding="async" width="98" height="98" src="{{ asset('themes/image/icon-puzzle.png') }}" class="attachment-large size-large wp-image-59" alt="" />															
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-35a391c elementor-widget elementor-widget-heading" data-id="35a391c" data-element_type="widget" data-widget_type="heading.default">
@@ -109,7 +109,7 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-7de7930f elementor-widget elementor-widget-image" data-id="7de7930f" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                                <img loading="lazy" decoding="async" width="98" height="98" src="https://accountumindia.in/wp-content/uploads/2024/11/icon-puzzle.png" class="attachment-large size-large wp-image-59" alt="" />															
+                                <img loading="lazy" decoding="async" width="98" height="98" src="{{ asset('themes/image/icon-puzzle.png') }}" class="attachment-large size-large wp-image-59" alt="" />															
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-6db934b6 elementor-widget elementor-widget-heading" data-id="6db934b6" data-element_type="widget" data-widget_type="heading.default">
