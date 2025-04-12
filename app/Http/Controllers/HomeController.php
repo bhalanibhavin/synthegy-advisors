@@ -47,4 +47,16 @@ class HomeController extends Controller
             return redirect()->route('home')->with('error', 'Server error');
         }
     }
+
+    public function testimonials(Request $request)
+    {
+        try{
+            $metaDataDetail['title'] = 'Testimonials - '.config('app.name');
+            $metaDataDetail['description'] = 'Testimonials - '.config('app.name');
+            $metaDataDetail['keyword'] = 'Testimonials - '.config('app.name');
+            return view('front.testimonials', compact('metaDataDetail'));
+        } catch (\Exception $e) {
+            return redirect()->route('home')->with('error', 'Server error');
+        }
+    }
 }

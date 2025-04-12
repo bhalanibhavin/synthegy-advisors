@@ -16,8 +16,8 @@
 				   <div class="elementor-widget-container">
 					  <nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
 						 <ul id="menu-1-391d6828" class="elementor-nav-menu">
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="{{ route('home') }}" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="{{ route('about-us') }}" class="elementor-item">About Us</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="{{ route('home') }}" aria-current="page" class="elementor-item {{ request()->is('/') ? 'elementor-item-active' : '' }}">Home</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="{{ route('about-us') }}" class="elementor-item {{ request()->is('about-us') ? 'elementor-item-active' : '' }}">About Us</a></li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-659">
 							   <a href="#" class="elementor-item elementor-item-anchor">Services</a>
 							   <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -32,8 +32,8 @@
 								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://accountumindia.in/payroll-management/" class="elementor-sub-item">Payroll Management</a></li>
 							   </ul>
 							</li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://accountumindia.in/testimonials/" class="elementor-item">Testimonials</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://accountumindia.in/contact-us/" class="elementor-item">Contact Us</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="{{ route('testimonials') }}" class="elementor-item {{ request()->is('testimonials') ? 'elementor-item-active' : '' }}">Testimonials</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="{{ route('contact-us') }}" class="elementor-item {{ request()->is('contact-us') ? 'elementor-item-active' : '' }}">Contact Us</a></li>
 						 </ul>
 					  </nav>
 					  <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -46,8 +46,8 @@
 					  </div>
 					  <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
 						 <ul id="menu-2-391d6828" class="elementor-nav-menu">
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="https://accountumindia.in/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://accountumindia.in/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-40"><a href="{{ route('home') }}" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="{{ route('about-us') }}" class="elementor-item" tabindex="-1">About Us</a></li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-659">
 							   <a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Services</a>
 							   <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -62,8 +62,8 @@
 								  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://accountumindia.in/payroll-management/" class="elementor-sub-item" tabindex="-1">Payroll Management</a></li>
 							   </ul>
 							</li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://accountumindia.in/testimonials/" class="elementor-item" tabindex="-1">Testimonials</a></li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://accountumindia.in/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="{{ route('testimonials') }}" class="elementor-item" tabindex="-1">Testimonials</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="{{ route('contact-us') }}" class="elementor-item" tabindex="-1">Contact Us</a></li>
 						 </ul>
 					  </nav>
 				   </div>
