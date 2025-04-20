@@ -107,41 +107,31 @@
             </div>
             <div class="elementor-element elementor-element-41d4f60 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="41d4f60" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
             <div class="elementor-widget-container">
-                <form class="elementor-form" method="post" name="New Form">
-                    <input type="hidden" name="post_id" value="12"/>
-                    <input type="hidden" name="form_id" value="41d4f60"/>
-                    <input type="hidden" name="referer_title" value="Home - {{ config('app.name') }}" />
-                    <input type="hidden" name="queried_id" value="12"/>
+                <form class="elementor-form" method="post" name="contact_us_form" id="contact_us_form" action="javascript:void(0)">
                     <div class="elementor-form-fields-wrapper elementor-labels-above">
                         <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
-                        <label for="form-field-name" class="elementor-field-label">
-                        Name							</label>
-                        <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
+                        <label for="contact_us_name" class="elementor-field-label">Name</label>
+                        <input size="1" type="text" name="contact_us_name" id="contact_us_name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required">
                         </div>
                         <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_32acbe8 elementor-col-50">
-                        <label for="form-field-field_32acbe8" class="elementor-field-label">
-                        Company							</label>
-                        <input size="1" type="text" name="form_fields[field_32acbe8]" id="form-field-field_32acbe8" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
+                        <label for="contact_us_company" class="elementor-field-label">Company</label>
+                        <input size="1" type="text" name="contact_us_company" id="contact_us_company" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company">
                         </div>
                         <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_0364935 elementor-col-50">
-                        <label for="form-field-field_0364935" class="elementor-field-label">
-                        Phone							</label>
-                        <input size="1" type="tel" name="form_fields[field_0364935]" id="form-field-field_0364935" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" pattern="[0-9()#&+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+                        <label for="contact_us_phone" class="elementor-field-label">Phone</label>
+                        <input type="tel" name="contact_us_phone" id="contact_us_phone" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" pattern="[0-9()#&+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
                         </div>
                         <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
-                        <label for="form-field-email" class="elementor-field-label">
-                        Email							</label>
-                        <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+                        <label for="contact_us_email" class="elementor-field-label">Email</label>
+                        <input size="1" type="email" name="contact_us_email" id="contact_us_email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
                         </div>
                         <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_6fff50b elementor-col-100 elementor-field-required">
-                        <label for="form-field-field_6fff50b" class="elementor-field-label">
-                        Service							</label>
-                        <input size="1" type="text" name="form_fields[field_6fff50b]" id="form-field-field_6fff50b" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Service" required="required">
+                        <label for="contact_us_service_type" class="elementor-field-label">Service</label>
+                        <input size="1" type="text" name="contact_us_service_type" id="contact_us_service_type" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Service" required="required">
                         </div>
                         <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
-                        <label for="form-field-message" class="elementor-field-label">
-                        Message							</label>
-                        <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>				
+                        <label for="contact_us_message" class="elementor-field-label">Message</label>
+                        <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="contact_us_message" id="contact_us_message" rows="4" placeholder="Message"></textarea>				
                         </div>
                         <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
                         <button class="elementor-button elementor-size-sm" type="submit">

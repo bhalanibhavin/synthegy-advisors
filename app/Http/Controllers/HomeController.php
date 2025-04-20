@@ -181,4 +181,18 @@ class HomeController extends Controller
             return response()->json(['success' => 'Oops! Something went wrong. Please try again in a little while.']);
         }
     }
+
+    public function sendContactUs(Request $request)
+    {
+        $data = $request->all();
+        // try{
+            $subject = "Contact-us from {$data['contact_us_name']}: {$data['contact_us_service_type']}";
+            Mail::send('emails.contact-us', ['data' => $data], function ($message) use($subject) {
+                $message->to(config('app.enquiry_mail'), config('app.name'))->subject($subject)->from(config('mail.from.address'), config('mail.from.name'));
+            });
+            return response()->json(['success' => 'Email sent successfully!']);
+        // } catch (\Exception $e) {
+        //     return response()->json(['success' => 'Oops! Something went wrong. Please try again in a little while.']);
+        // }
+    }
 }

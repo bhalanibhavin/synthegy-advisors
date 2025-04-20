@@ -34,3 +34,4 @@ Route::get('gst-registration', [HomeController::class, 'gstRegistration'])->name
 Route::get('payroll-management', [HomeController::class, 'payrollManagement'])->name('payroll-management');
 
 Route::post('send-enquery', [HomeController::class, 'sendEnquery'])->name('send-enquery');
+Route::post('send-contact-us', [HomeController::class, 'sendContactUs'])->name('send-contact-us');

@@ -257,9 +257,6 @@
  <script>
 	$('#enquery_form').on('submit', function(e) {
 		e.preventDefault();
-
-		console.log('Submitting form via AJAX');
-
 		$.ajax({
 			url: '/send-enquery',
 			type: 'POST',
@@ -270,6 +267,24 @@
 			success: function(response) {
 				alert(response.success);
 				$('#enquery_form')[0].reset();
+			},
+			error: function(xhr) {
+				alert('Error sending email');
+			}
+		});
+	});
+	$('#contact_us_form').on('submit', function(e) {
+		e.preventDefault();
+		$.ajax({
+			url: '/send-contact-us',
+			type: 'POST',
+			data: $(this).serialize(),
+			headers: {
+				'X-CSRF-TOKEN': '{{ csrf_token() }}'
+			},
+			success: function(response) {
+				alert(response.success);
+				$('#contact_us_form')[0].reset();
 			},
 			error: function(xhr) {
 				alert('Error sending email');
