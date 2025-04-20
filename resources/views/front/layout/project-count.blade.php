@@ -8,7 +8,7 @@
                         <div class="elementor-counter-title">Projects</div>
                         <div class="elementor-counter-number-wrapper">
                         <span class="elementor-counter-number-prefix"></span>
-                        <span class="elementor-counter-number" data-duration="2000" data-to-value="250" data-from-value="0" data-delimiter=",">0</span>
+                        <span class="elementor-counter-number" data-duration="2000" data-to-value="250" data-from-value="0" data-delimiter=",">250</span>
                         <span class="elementor-counter-number-suffix">+</span>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                         <div class="elementor-counter-title">Clients</div>
                         <div class="elementor-counter-number-wrapper">
                         <span class="elementor-counter-number-prefix"></span>
-                        <span class="elementor-counter-number" data-duration="2000" data-to-value="600" data-from-value="0" data-delimiter=",">0</span>
+                        <span class="elementor-counter-number" data-duration="2000" data-to-value="600" data-from-value="0" data-delimiter=",">600</span>
                         <span class="elementor-counter-number-suffix">+</span>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                         <div class="elementor-counter-title">Years Experience</div>
                         <div class="elementor-counter-number-wrapper">
                         <span class="elementor-counter-number-prefix"></span>
-                        <span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
+                        <span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">15</span>
                         <span class="elementor-counter-number-suffix">+</span>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                         <div class="elementor-counter-title">Awards Winning</div>
                         <div class="elementor-counter-number-wrapper">
                         <span class="elementor-counter-number-prefix"></span>
-                        <span class="elementor-counter-number" data-duration="2000" data-to-value="12" data-from-value="0" data-delimiter=",">0</span>
+                        <span class="elementor-counter-number" data-duration="2000" data-to-value="12" data-from-value="0" data-delimiter=",">12</span>
                         <span class="elementor-counter-number-suffix"></span>
                         </div>
                     </div>

@@ -101,12 +101,52 @@ window._wpemojiSettings = {"source":{"concatemoji":"..\/js\/wp-emoji-release.min
             background-image: none !important;
         }
     }
-
-    .footer-menu .elementor-item-active {
-         color: #E98970 !important;
-     }
 </style>
 <link rel="icon" href="{{ asset('themes/image/COMPLETE-AD5-150x150.jpg') }}" sizes="32x32" />
 <link rel="icon" href="{{ asset('themes/image/COMPLETE-AD5-300x300.jpg') }}" sizes="192x192" />
 <link rel="apple-touch-icon" href="{{ asset('themes/image/COMPLETE-AD5-300x300.jpg') }}" />
 <meta name="msapplication-TileImage" content="{{ asset('themes/image/COMPLETE-AD5-300x300.jpg') }}" />
+
+<style>
+    .footer-menu .elementor-item-active {
+         color: #E98970 !important;
+     }
+    /* Override Elementor's hidden submenu */
+    .menu-item-has-children:hover > .sub-menu {
+        display: block !important;
+        position: absolute;
+        background: #444;
+        z-index: 999;
+        top: 100%;
+        left: 0;
+    }
+    /* Optional styling */
+    .sub-menu a {
+        color: white;
+        padding: 10px 15px;
+        display: block;
+        text-decoration: none;
+    }
+    .sub-menu a:hover {
+        /* background-color: #555; */
+    }
+    .sub-arrow svg {
+        width: 10px;
+        height: 10px;
+        margin-left: 6px;
+        vertical-align: middle;
+    }
+    .sub-arrow {
+        display: inline-block !important;
+        visibility: visible !important;
+        padding: 0px !important;
+    }
+    .menu-item-has-children {
+        overflow: visible !important;
+    }
+    ul.sub-menu.elementor-nav-menu--dropdown {
+        max-width: 1000px;
+        width: auto;
+        min-width: 10em;
+    }
+</style>

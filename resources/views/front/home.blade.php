@@ -596,7 +596,7 @@
 							<div class="elementor-element elementor-element-a191d53 elementor-widget elementor-widget-button" data-id="a191d53" data-element_type="widget" data-widget_type="button.default">
 							   <div class="elementor-widget-container">
 								  <div class="elementor-button-wrapper">
-									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('itr-filling') }}">
+									 <a class="elementor-button elementor-button-link elementor-size-sm" href="{{ route('itr-filing') }}">
 										<span class="elementor-button-content-wrapper">
 										   <span class="elementor-button-icon">
 											  <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
@@ -645,7 +645,7 @@
 					  <span class="elementor-title" id="elementor-progress-bar-5ea3b8e">
 					  Tax &amp; Payroll			</span>
 					  <div aria-labelledby="elementor-progress-bar-5ea3b8e" class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
-						 <div class="elementor-progress-bar" data-max="80">
+						 <div class="elementor-progress-bar" data-max="80" style="width: 80%;">
 							<span class="elementor-progress-text"></span>
 							<span class="elementor-progress-percentage">80%</span>
 						 </div>
@@ -657,7 +657,7 @@
 					  <span class="elementor-title" id="elementor-progress-bar-899dbcf">
 					  Business Taxation			</span>
 					  <div aria-labelledby="elementor-progress-bar-899dbcf" class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90">
-						 <div class="elementor-progress-bar" data-max="90">
+						 <div class="elementor-progress-bar" data-max="90" style="width: 90%;">
 							<span class="elementor-progress-text"></span>
 							<span class="elementor-progress-percentage">90%</span>
 						 </div>
@@ -669,7 +669,7 @@
 					  <span class="elementor-title" id="elementor-progress-bar-bb2c105">
 					  Accounts Outsourcing			</span>
 					  <div aria-labelledby="elementor-progress-bar-bb2c105" class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85">
-						 <div class="elementor-progress-bar" data-max="85">
+						 <div class="elementor-progress-bar" data-max="85" style="width: 85%;">
 							<span class="elementor-progress-text"></span>
 							<span class="elementor-progress-percentage">85%</span>
 						 </div>
