@@ -14,7 +14,7 @@
             <div class="elementor-widget-wrap elementor-element-populated">
                <div class="elementor-element elementor-element-d71bf47 elementor-widget elementor-widget-heading" data-id="d71bf47" data-element_type="widget" data-widget_type="heading.default">
                   <div class="elementor-widget-container">
-                     <h1 class="elementor-heading-title elementor-size-default"><a href="{{ route('itr-filling') }}">ITR Filing in India</a></h1>
+                     <h1 class="elementor-heading-title elementor-size-default"><a href="{{ route('itr-filing') }}">ITR Filing in India</a></h1>
                   </div>
                </div>
                <div class="elementor-element elementor-element-755f765 elementor-widget elementor-widget-text-editor" data-id="755f765" data-element_type="widget" data-widget_type="text-editor.default">

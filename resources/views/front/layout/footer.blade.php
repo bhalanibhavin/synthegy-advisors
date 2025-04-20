@@ -62,24 +62,24 @@
 							<div class="elementor-element elementor-element-31abbe8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="31abbe8" data-element_type="widget" data-widget_type="icon-list.default">
 							   <div class="elementor-widget-container">
 								  <ul class="elementor-icon-list-items">
-									 <li class="elementor-icon-list-item">
-										<a href="{{ route('tds-tcs-return') }}" class="{{ request()->is('tds-tcs-return') ? 'elementor-item-active' : '' }}">
-										<span class="elementor-icon-list-text">TDS & TCS</span>
+									 <li class="elementor-icon-list-item footer-menu">
+										<a href="{{ route('tds-tcs-return') }}">
+										<span class="elementor-icon-list-text {{ request()->is('tds-tcs-return') ? 'elementor-item-active' : '' }}">TDS & TCS</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="{{ route('epf-registration') }}" class="{{ request()->is('epf-registration') ? 'elementor-item-active' : '' }}">
-										<span class="elementor-icon-list-text">EPF Registration</span>
+									 <li class="elementor-icon-list-item footer-menu">
+										<a href="{{ route('epf-registration') }}">
+										<span class="elementor-icon-list-text {{ request()->is('epf-registration') ? 'elementor-item-active' : '' }}">EPF Registration</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="{{ route('esic-registration') }}" class="{{ request()->is('esic-registration') ? 'elementor-item-active' : '' }}">
-										<span class="elementor-icon-list-text">ESIC Registration</span>
+									 <li class="elementor-icon-list-item footer-menu">
+										<a href="{{ route('esic-registration') }}">
+										<span class="elementor-icon-list-text {{ request()->is('esic-registration') ? 'elementor-item-active' : '' }}">ESIC Registration</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item">
-										<a href="{{ route('iec-registration') }}" class="{{ request()->is('iec-registration') ? 'elementor-item-active' : '' }}">
-										<span class="elementor-icon-list-text">IEC Registration</span>
+									 <li class="elementor-icon-list-item footer-menu">
+										<a href="{{ route('iec-registration') }}">
+										<span class="elementor-icon-list-text {{ request()->is('iec-registration') ? 'elementor-item-active' : '' }}">IEC Registration</span>
 										</a>
 									 </li>
 								  </ul>
@@ -92,29 +92,29 @@
 							<div class="elementor-element elementor-element-174e9df elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="174e9df" data-element_type="widget" data-widget_type="icon-list.default">
 							   <div class="elementor-widget-container">
 								  <ul class="elementor-icon-list-items">
-									 <li class="elementor-icon-list-item">
-										<a href="{{ route('accounting') }}" class="{{ request()->is('accounting') ? 'elementor-item-active' : '' }}">
-										<span class="elementor-icon-list-text">Accounting</span>
+									 <li class="elementor-icon-list-item footer-menu">
+										<a href="{{ route('accounting') }}">
+										<span class="elementor-icon-list-text {{ request()->is('accounting') ? 'elementor-item-active' : '' }}">Accounting</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item" class="{{ request()->is('gst-registration') ? 'elementor-item-active' : '' }}">
+									 <li class="elementor-icon-list-item footer-menu">
 										<a href="{{ route('gst-registration') }}">
-										<span class="elementor-icon-list-text">GST Services</span>
+										<span class="elementor-icon-list-text {{ request()->is('gst-registration') ? 'elementor-item-active' : '' }}">GST Services</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item" class="{{ request()->is('itr-filing') ? 'elementor-item-active' : '' }}">
+									 <li class="elementor-icon-list-item footer-menu">
 										<a href="{{ route('itr-filing') }}">
-										<span class="elementor-icon-list-text">ITR Filing</span>
+										<span class="elementor-icon-list-text {{ request()->is('itr-filing') ? 'elementor-item-active' : '' }}">ITR Filing</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item" class="{{ request()->is('msme-registration') ? 'elementor-item-active' : '' }}">
+									 <li class="elementor-icon-list-item footer-menu">
 										<a href="{{ route('msme-registration') }}">
-										<span class="elementor-icon-list-text">MSME Registration</span>
+										<span class="elementor-icon-list-text {{ request()->is('msme-registration') ? 'elementor-item-active' : '' }}">MSME Registration</span>
 										</a>
 									 </li>
-									 <li class="elementor-icon-list-item" class="{{ request()->is('payroll-management') ? 'elementor-item-active' : '' }}">
+									 <li class="elementor-icon-list-item footer-menu">
 										<a href="{{ route('payroll-management') }}">
-										<span class="elementor-icon-list-text">Payroll Management</span>
+										<span class="elementor-icon-list-text {{ request()->is('payroll-management') ? 'elementor-item-active' : '' }}">Payroll Management</span>
 										</a>
 									 </li>
 								  </ul>
@@ -177,47 +177,13 @@
 					  </div>
 				   </div>
 				</section>
-				<div class="elementor-element elementor-element-09e9a16 e-grid e-con-boxed e-con e-parent" data-id="09e9a16" data-element_type="container">
-				   <div class="e-con-inner">
-					  <div class="elementor-element elementor-element-000fb51 elementor-widget elementor-widget-heading" data-id="000fb51" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-rajkot/">Best Gst Consultant in Rajkot</a></h2>
-						 </div>
-					  </div>
-					  <div class="elementor-element elementor-element-523f140 elementor-widget elementor-widget-heading" data-id="523f140" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-surat/">Best Gst Consultant in Surat</a></h2>
-						 </div>
-					  </div>
-					  <div class="elementor-element elementor-element-ec17b27 elementor-widget elementor-widget-heading" data-id="ec17b27" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-vadodara/">Best Gst Consultant in Vadodara</a></h2>
-						 </div>
-					  </div>
-					  <div class="elementor-element elementor-element-e76d977 elementor-widget elementor-widget-heading" data-id="e76d977" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-indore/">Best Gst Consultant in Indore</a></h2>
-						 </div>
-					  </div>
-					  <div class="elementor-element elementor-element-1b38af1 elementor-widget elementor-widget-heading" data-id="1b38af1" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-jabalpur/">Best Gst Consultant in Jabalpur</a></h2>
-						 </div>
-					  </div>
-					  <div class="elementor-element elementor-element-00fb4fa elementor-widget elementor-widget-heading" data-id="00fb4fa" data-element_type="widget" data-widget_type="heading.default">
-						 <div class="elementor-widget-container">
-							<h2 class="elementor-heading-title elementor-size-default"><a href="https://accountumindia.in/best-gst-consultant-in-gwalior/">Best Gst Consultant in Gwalior</a></h2>
-						 </div>
-					  </div>
-				   </div>
-				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6e90b55d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e90b55d" data-element_type="section">
 				   <div class="elementor-container elementor-column-gap-default">
 					  <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4617e555" data-id="4617e555" data-element_type="column">
 						 <div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-320d87ac elementor-widget elementor-widget-heading" data-id="320d87ac" data-element_type="widget" data-widget_type="heading.default">
 							   <div class="elementor-widget-container">
-								  <p class="elementor-heading-title elementor-size-default"><a href="#">copyright © 2024 {{ config('app.name') }} | All rights reserved | Design By Complete AD</a></p>
+								  <p class="elementor-heading-title elementor-size-default"><a href="https://dsolstice.com">Copyright © 2025 {{ config('app.name') }} | All rights reserved | Design By DSolstice</a></p>
 							   </div>
 							</div>
 						 </div>
