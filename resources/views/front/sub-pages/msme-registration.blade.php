@@ -247,46 +247,32 @@
                               <div class="e-con-inner">
                                  <div class="elementor-element elementor-element-2645e4c elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="2645e4c" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                     <div class="elementor-widget-container">
-                                       <form class="elementor-form" method="post" name="New Form">
-                                          <input type="hidden" name="post_id" value="639">
-                                          <input type="hidden" name="form_id" value="2645e4c">
-                                          <input type="hidden" name="referer_title" value="MSME Registration - Synthegy Advisors">
-                                          <input type="hidden" name="queried_id" value="639">
+                                       <form class="elementor-form" method="post" name="enquery_form" id="enquery_form" action="javascript:void(0)">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
-                                                <label for="form-field-name" class="elementor-field-label">
-                                                Name							</label>
-                                                <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">
+                                                <label for="enquiry_name" class="elementor-field-label">Name</label>
+                                                <input size="1" type="text" name="enquiry_name" id="enquiry_name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">
                                              </div>
                                              <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
-                                                <label for="form-field-email" class="elementor-field-label">
-                                                Email							</label>
-                                                <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+                                                <label for="enquiry_email" class="elementor-field-label">Email</label>
+                                                <input size="1" type="email" name="enquiry_email" id="enquiry_email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
                                              </div>
                                              <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_af6b8c0 elementor-col-100 elementor-field-required">
-                                                <label for="form-field-field_af6b8c0" class="elementor-field-label">
-                                                Phone							</label>
-                                                <input size="1" type="tel" name="form_fields[field_af6b8c0]" id="form-field-field_af6b8c0" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+                                                <label for="enquiry_phone" class="elementor-field-label">Phone</label>
+                                                <input size="1" type="tel" name="enquiry_phone" id="enquiry_phone" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" required="required" pattern="[0-9()#&+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
                                              </div>
                                              <div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-field_6ef2eba elementor-col-100">
-                                                <label for="form-field-field_6ef2eba" class="elementor-field-label">
-                                                Required Service							</label>
+                                                <label for="enquiry_service_type" class="elementor-field-label">Required Service</label>
                                                 <div class="elementor-field elementor-select-wrapper remove-before ">
                                                    <div class="select-caret-down-wrapper">
                                                       <svg aria-hidden="true" class="e-font-icon-svg e-eicon-caret-down" viewBox="0 0 571.4 571.4" xmlns="http://www.w3.org/2000/svg">
                                                          <path d="M571 393Q571 407 561 418L311 668Q300 679 286 679T261 668L11 418Q0 407 0 393T11 368 36 357H536Q550 357 561 368T571 393Z"></path>
                                                       </svg>
                                                    </div>
-                                                   <select name="form_fields[field_6ef2eba]" id="form-field-field_6ef2eba" class="elementor-field-textual elementor-size-sm">
-                                                      <option value="Accounting">Accounting</option>
-                                                      <option value="Payroll Management">Payroll Management</option>
-                                                      <option value="GST Registration">GST Registration</option>
-                                                      <option value="MSME Registration">MSME Registration</option>
-                                                      <option value="PF Registration">PF Registration</option>
-                                                      <option value="ESIC Registration">ESIC Registration</option>
-                                                      <option value="IEC Registration">IEC Registration</option>
-                                                      <option value="TDS &amp; TCS Return">TDS &amp; TCS Return</option>
-                                                      <option value="ITR Filling">ITR Filling</option>
+                                                   <select name="enquiry_service_type" id="enquiry_service_type" class="elementor-field-textual elementor-size-sm">
+                                                      @foreach(config('app.enqueryTypes') as $key => $enquery)
+                                                         <option value="{{ $enquery }}" @if($key == Request::segment(1)) selected @endif>{{ $enquery }}</option>
+                                                      @endforeach
                                                    </select>
                                                 </div>
                                              </div>

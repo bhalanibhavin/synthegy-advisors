@@ -23,6 +23,10 @@ return [
     'contact_email' => env('CONTACT_EMAIL', ''),
     'contact_address' => env('CONTACT_ADDRESS', ''),
 
+    'enquiry_mail' => env('ENQUIRY_MAIL'),
+
+    'enqueryTypes' => ['accounting' => 'Accounting', 'itr-filing' => 'ITR Filling', 'tds-tcs-return' => 'TDS & TCS Return', 'iec-registration' => 'IEC Registration', 'esic-registration' => 'ESIC Registration', 'epf-registration' => 'EPF Registration', 'msme-registration' => 'MSME Registration', 'gst-registration' => 'GST Registration', 'payroll-management' => 'Payroll Management'],
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment

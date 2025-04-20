@@ -126,7 +126,7 @@
                         <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_0364935 elementor-col-50">
                         <label for="form-field-field_0364935" class="elementor-field-label">
                         Phone							</label>
-                        <input size="1" type="tel" name="form_fields[field_0364935]" id="form-field-field_0364935" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+                        <input size="1" type="tel" name="form_fields[field_0364935]" id="form-field-field_0364935" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone" pattern="[0-9()#&+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
                         </div>
                         <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
                         <label for="form-field-email" class="elementor-field-label">

@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-// use App\helpers\helper as helper;
+use Illuminate\Support\Facades\Mail;
 
 class HomeController extends Controller
 {	
@@ -165,6 +165,20 @@ class HomeController extends Controller
             return view('front.sub-pages.payroll-management', compact('metaDataDetail'));
         } catch (\Exception $e) {
             return redirect()->route('home')->with('error', 'Server error');
+        }
+    }
+
+    public function sendEnquery(Request $request)
+    {
+        $data = $request->all();
+        try{
+            $subject = "Enquiry from {$data['enquiry_name']}: {$data['enquiry_service_type']}";
+            Mail::send('emails.enquiry', ['data' => $data], function ($message) use($subject) {
+                $message->to(config('app.enquiry_mail'), config('app.name'))->subject($subject)->from(config('mail.from.address'), config('mail.from.name'));
+            });
+            return response()->json(['success' => 'Email sent successfully!']);
+        } catch (\Exception $e) {
+            return response()->json(['success' => 'Oops! Something went wrong. Please try again in a little while.']);
         }
     }
 }

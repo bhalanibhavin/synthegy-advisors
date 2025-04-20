@@ -252,3 +252,28 @@
  </script>
  <!-- Call Now Button 1.4.15 (https://callnowbutton.com) [renderer:modern]-->
  <a aria-label="Call Now Button" href="tel:{{ config('app.contact_number_1') }}" id="callnowbutton" class="call-now-button  cnb-zoom-100  cnb-zindex-10  cnb-single cnb-right cnb-displaymode cnb-displaymode-always" style="background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTI3LjAxMzU1LDIzLjQ4ODU5bC0xLjc1MywxLjc1MzA1YTUuMDAxLDUuMDAxLDAsMCwxLTUuMTk5MjgsMS4xODI0M2MtMS45NzE5My0uNjkzNzItNC44NzMzNS0yLjM2NDM4LTguNDM4NDgtNS45Mjk1UzYuMzg3LDE0LjAyOCw1LjY5MzMsMTIuMDU2MTVBNS4wMDA3OCw1LjAwMDc4LDAsMCwxLDYuODc1NzMsNi44NTY4N0w4LjYyODc4LDUuMTAzNzZhMSwxLDAsMCwxLDEuNDE0MzEuMDAwMTJsMi44MjgsMi44Mjg4QTEsMSwwLDAsMSwxMi44NzEsOS4zNDY4TDExLjA2NDcsMTEuMTUzYTEuMDAzOCwxLjAwMzgsMCwwLDAtLjA4MjEsMS4zMjE3MSw0MC43NDI3OCw0MC43NDI3OCwwLDAsMCw0LjA3NjI0LDQuNTgzNzQsNDAuNzQxNDMsNDAuNzQxNDMsMCwwLDAsNC41ODM3NCw0LjA3NjIzLDEuMDAzNzksMS4wMDM3OSwwLDAsMCwxLjMyMTcxLS4wODIwOWwxLjgwNjIyLTEuODA2MjdhMSwxLDAsMCwxLDEuNDE0MTItLjAwMDEybDIuODI4OCwyLjgyOEExLjAwMDA3LDEuMDAwMDcsMCwwLDEsMjcuMDEzNTUsMjMuNDg4NTlaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+); background-color:#008A00;"><span>Call Now Button</span></a>
+
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ <script>
+	$('#enquery_form').on('submit', function(e) {
+		e.preventDefault();
+
+		console.log('Submitting form via AJAX');
+
+		$.ajax({
+			url: '/send-enquery',
+			type: 'POST',
+			data: $(this).serialize(),
+			headers: {
+				'X-CSRF-TOKEN': '{{ csrf_token() }}'
+			},
+			success: function(response) {
+				alert(response.success);
+				$('#enquery_form')[0].reset();
+			},
+			error: function(xhr) {
+				alert('Error sending email');
+			}
+		});
+	});
+ </script>

@@ -32,3 +32,5 @@ Route::get('epf-registration', [HomeController::class, 'epfRegistration'])->name
 Route::get('msme-registration', [HomeController::class, 'msmeRegistration'])->name('msme-registration');
 Route::get('gst-registration', [HomeController::class, 'gstRegistration'])->name('gst-registration');
 Route::get('payroll-management', [HomeController::class, 'payrollManagement'])->name('payroll-management');
+
+Route::post('send-enquery', [HomeController::class, 'sendEnquery'])->name('send-enquery');
