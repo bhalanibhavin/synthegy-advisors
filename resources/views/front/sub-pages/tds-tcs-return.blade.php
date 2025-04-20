@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-55503a9 elementor-widget elementor-widget-text-editor" data-id="55503a9" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>At Accountum India, we specialize in providing expert TDS &amp; TCS return filing services across India. Our team of experienced professionals ensures that your business remains fully compliant with the ever-evolving tax regulations set by the Income Tax Department.</p>
+                     <p>At Synthegy Advisors, we specialize in providing expert TDS &amp; TCS return filing services across India. Our team of experienced professionals ensures that your business remains fully compliant with the ever-evolving tax regulations set by the Income Tax Department.</p>
                      <p>We make TDS and TCS return filing simple, hassle-free, and fully compliant with Indian tax laws. Whether you’re a small business, a large corporation, or an individual taxpayer, we’ve got you covered when it comes to filing your TDS (Tax Deducted at Source) and TCS (Tax Collected at Source) returns.</p>
                      <p>Confused about TDS or TCS? Don’t worry, you’re not alone. Tax deductions can be tricky, and the penalties for mistakes or delays are real. That’s where we come in. Our team of experts handles everything from accurate return filing to rectifying errors, ensuring you stay compliant and avoid unnecessary fines.</p>
                   </div>
@@ -115,7 +115,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-956f104 elementor-widget elementor-widget-heading" data-id="956f104" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting TDS &amp; TCS Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting TDS &amp; TCS Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -254,7 +254,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="647">
                                           <input type="hidden" name="form_id" value="18a0c51">
-                                          <input type="hidden" name="referer_title" value="TDS &amp; TCS Return - Accountum India">
+                                          <input type="hidden" name="referer_title" value="TDS &amp; TCS Return - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="647">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

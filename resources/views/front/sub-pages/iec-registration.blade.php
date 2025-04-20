@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-f4ff654 elementor-widget elementor-widget-text-editor" data-id="f4ff654" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you planning to Import Export activity, if Yes you required (Import Export Code License) IEC Registration in India. Connect with&nbsp; Accountum India&nbsp; now we will provide Instant IEC License Registration.</p>
+                     <p>Are you planning to Import Export activity, if Yes you required (Import Export Code License) IEC Registration in India. Connect with&nbsp; Synthegy Advisors&nbsp; now we will provide Instant IEC License Registration.</p>
                      <p>Director General of Foreign Trade handles the affairs of import and export activity, Any kind of import and export requires Import Export Code License. All types of Importer, Manufacturer Exporter, Merchant Exporter, Exporter of Services required IEC license registration. Also IEC Certificate is useful for filing export incentive and specific license for export of goods. Process of application for registration of Import Export Code (IEC) is simple and easy.&nbsp;</p>
                   </div>
                </div>
@@ -114,7 +114,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-72c4caf elementor-widget elementor-widget-heading" data-id="72c4caf" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting IEC Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting IEC Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -246,7 +246,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="645">
                                           <input type="hidden" name="form_id" value="22fb1ef">
-                                          <input type="hidden" name="referer_title" value="IEC Registration - Accountum India">
+                                          <input type="hidden" name="referer_title" value="IEC Registration - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="645">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

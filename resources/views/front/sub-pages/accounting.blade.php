@@ -79,7 +79,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-03e72a2 elementor-widget elementor-widget-heading" data-id="03e72a2" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Accounting Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Accounting Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -233,7 +233,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="477">
                                           <input type="hidden" name="form_id" value="ee0cfbf">
-                                          <input type="hidden" name="referer_title" value="Accounting - Accountum India">
+                                          <input type="hidden" name="referer_title" value="Accounting - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="477">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

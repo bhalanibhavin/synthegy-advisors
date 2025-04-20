@@ -20,7 +20,7 @@
                <div class="elementor-element elementor-element-3c95e44 elementor-widget elementor-widget-text-editor" data-id="3c95e44" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
                      <p>Every Indian Business Can opt for Free MSME Registration at Online UDYAM Portal. The Government of India has the Ministry of Micro, Small &amp; Medium Enterprises. which continuously works for the benefits of small business enterprises. Registered Business Under New UDYAM / Udhyog Aadhaar/ MSME can avail various government benefits.</p>
-                     <p>Accountum India Provides MSME Registration services across India. We are best online MSME Consultant near to you.</p>
+                     <p>Synthegy Advisors Provides MSME Registration services across India. We are best online MSME Consultant near to you.</p>
                      <p>Register your Business with Government MSME Department with NEW UDYAM Scheme. Online Registration is Available For Udhyog Aadhaar, Micro Small &amp; Medium Enterprise(MSME), Small Scale Industries (SSI)</p>
                   </div>
                </div>
@@ -115,7 +115,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-822d166 elementor-widget elementor-widget-heading" data-id="822d166" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting MSME Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting MSME Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -250,7 +250,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="639">
                                           <input type="hidden" name="form_id" value="2645e4c">
-                                          <input type="hidden" name="referer_title" value="MSME Registration - Accountum India">
+                                          <input type="hidden" name="referer_title" value="MSME Registration - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="639">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

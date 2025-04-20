@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-755f765 elementor-widget elementor-widget-text-editor" data-id="755f765" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you searching for Income Tax Return – ITR Filing Consultant in India? Accountum India is Best Online Income Tax Return (ITR) Filing Service Provider in India.</p>
+                     <p>Are you searching for Income Tax Return – ITR Filing Consultant in India? Synthegy Advisors is Best Online Income Tax Return (ITR) Filing Service Provider in India.</p>
                      <p>Income Tax Return Filing is compulsory for each Indian person who is earning taxable income more than threshold limit (Currently Threshold Limit is INR 250000). We provide India’s best online consultancy services in the field of Income Tax Return Filing. We have qualified experienced team of chartered accountants (CA) for preparation and filing of income tax return for our clients. Further we have 24 x 7 online support services for income tax return filings and preparation queries, Also we provide at home/at site/at office ITR Filing Services in India. Our team will just not file (ITR) tax return rather they will provide complete guidance on filing as well as for tax saving options. In addition, Our Highly experienced Chartered Accountants will check prepared return for quality maintenance.</p>
                      <p>Further we provide CA Certified Income Tax Return Filing and Computation of Income (COI – ITR) to clients for the purpose of Loan application and VISA application.</p>
                   </div>
@@ -115,7 +115,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-e6939b3 elementor-widget elementor-widget-heading" data-id="e6939b3" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting ITR Filing Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting ITR Filing Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -276,7 +276,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="649">
                                           <input type="hidden" name="form_id" value="c0f8313">
-                                          <input type="hidden" name="referer_title" value="ITR Filing - Accountum India">
+                                          <input type="hidden" name="referer_title" value="ITR Filing - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="649">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

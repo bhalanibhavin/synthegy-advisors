@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-41493a8 elementor-widget elementor-widget-text-editor" data-id="41493a8" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you looking for a&nbsp; EPF Registration Consultant? Accountum India Provides Best Consultant for PF Registration in India. Our Employer Provident Fund – EPF Registration Service Includes Establishment Registration, PF Code Application, Employee UAN Generating, Provident Fund Return and Payment. EPF Registration is Mandatory if Company / Factory Employee Strength Increase to more than 20. However, Even Voluntary Registration available if Employee strength is less than 20. Provident Fund is Fund for Retirement Benefits/Savings. Employee Contribute 12% from their Salary towards EPF and Same Amount Contributed by Employer towards Employee EPF Benefit. Balance of EPF is available for withdrawal in case of emergency.</p>
+                     <p>Are you looking for a&nbsp; EPF Registration Consultant? Synthegy Advisors Provides Best Consultant for PF Registration in India. Our Employer Provident Fund – EPF Registration Service Includes Establishment Registration, PF Code Application, Employee UAN Generating, Provident Fund Return and Payment. EPF Registration is Mandatory if Company / Factory Employee Strength Increase to more than 20. However, Even Voluntary Registration available if Employee strength is less than 20. Provident Fund is Fund for Retirement Benefits/Savings. Employee Contribute 12% from their Salary towards EPF and Same Amount Contributed by Employer towards Employee EPF Benefit. Balance of EPF is available for withdrawal in case of emergency.</p>
                   </div>
                </div>
             </div>
@@ -113,7 +113,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-c5ba6f8 elementor-widget elementor-widget-heading" data-id="c5ba6f8" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting EPF Registration Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting EPF Registration Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -247,7 +247,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="641">
                                           <input type="hidden" name="form_id" value="2f658b4">
-                                          <input type="hidden" name="referer_title" value="EPF Registration - Accountum India">
+                                          <input type="hidden" name="referer_title" value="EPF Registration - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="641">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

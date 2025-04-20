@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-2c2a93c elementor-widget elementor-widget-text-editor" data-id="2c2a93c" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you looking for PF ESIC Registration Consultant? Accountum India provides best consultancy for&nbsp; ESIC Registration Services.</p>
+                     <p>Are you looking for PF ESIC Registration Consultant? Synthegy Advisors provides best consultancy for&nbsp; ESIC Registration Services.</p>
                      <p>Businesses engaged in hazardous activity or business specified by central government are required to obtain online ESIC registration. Such registration enables employee to recover hospitalisation expense from the insurance coverage of ESIC. Each month employee and employer both contribute towards ESIC Coverage. Each month employer required to Submit contribution to ESIC department with ESIC return.</p>
                   </div>
                </div>
@@ -114,7 +114,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-94b9bcc elementor-widget elementor-widget-heading" data-id="94b9bcc" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting ESIC Registration Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting ESIC Registration Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -257,7 +257,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="643">
                                           <input type="hidden" name="form_id" value="3b210a7">
-                                          <input type="hidden" name="referer_title" value="ESIC Registration - Accountum India">
+                                          <input type="hidden" name="referer_title" value="ESIC Registration - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="643">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

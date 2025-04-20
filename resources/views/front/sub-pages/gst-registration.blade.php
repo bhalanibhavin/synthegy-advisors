@@ -19,7 +19,7 @@
                </div>
                <div class="elementor-element elementor-element-4b38f2a elementor-widget elementor-widget-text-editor" data-id="4b38f2a" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you Searching for Goods and Services Tax (GST) Registration, Accountum India is Best GST Registration Consultant in India. When Business Taxable Turnover Exceeds Basic Exemption Limit Then Its Mandatory to Obtain GST Registration. However, There are Two Act Governs the Goods and Service Tax Regime State Act (SGST/UGST) and Central Act (CGST). therefore, State and Central Department both Update their Guideline and Rules on time to time basis.&nbsp;</p>
+                     <p>Are you Searching for Goods and Services Tax (GST) Registration, Synthegy Advisors is Best GST Registration Consultant in India. When Business Taxable Turnover Exceeds Basic Exemption Limit Then Its Mandatory to Obtain GST Registration. However, There are Two Act Governs the Goods and Service Tax Regime State Act (SGST/UGST) and Central Act (CGST). therefore, State and Central Department both Update their Guideline and Rules on time to time basis.&nbsp;</p>
                      <p>GST Services (Goods and Services Tax) is Indirect Tax Compliance in India. GST is Required to pay when any Business Provides Supply to other person. Here Supply Means Goods and/or Service both.</p>
                   </div>
                </div>
@@ -114,7 +114,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-700911b elementor-widget elementor-widget-heading" data-id="700911b" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Gst Registration Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Gst Registration Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -247,7 +247,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="637">
                                           <input type="hidden" name="form_id" value="3f39f59">
-                                          <input type="hidden" name="referer_title" value="GST Registration - Accountum India">
+                                          <input type="hidden" name="referer_title" value="GST Registration - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="637">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">

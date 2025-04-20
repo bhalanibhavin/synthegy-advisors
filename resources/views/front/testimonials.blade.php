@@ -54,7 +54,7 @@
                                 <div class="elementor-element elementor-element-70c96d1 elementor-widget elementor-widget-testimonial" data-id="70c96d1" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-testimonial-wrapper">
-                                        <div class="elementor-testimonial-content">Accountum India has been a game-changer for our business. Their expertise in GST and tax compliance has saved us time and stress. We appreciate their transparency and clear communication – they are truly our financial partners.</div>
+                                        <div class="elementor-testimonial-content">Synthegy Advisors has been a game-changer for our business. Their expertise in GST and tax compliance has saved us time and stress. We appreciate their transparency and clear communication – they are truly our financial partners.</div>
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                             <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
@@ -82,7 +82,7 @@
                                 <div class="elementor-element elementor-element-d4e18d9 elementor-widget-mobile__width-initial elementor-widget elementor-widget-testimonial" data-id="d4e18d9" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-testimonial-wrapper">
-                                        <div class="elementor-testimonial-content">The team at Accountum India goes above and beyond to ensure that our finances are in order. They’ve helped us with everything from payroll to tax planning, and their proactive approach has been invaluable to our company’s growth. Highly recommended!</div>
+                                        <div class="elementor-testimonial-content">The team at Synthegy Advisors goes above and beyond to ensure that our finances are in order. They’ve helped us with everything from payroll to tax planning, and their proactive approach has been invaluable to our company’s growth. Highly recommended!</div>
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                             <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
@@ -114,7 +114,7 @@
                                 <div class="elementor-element elementor-element-31e99e8 elementor-widget elementor-widget-testimonial" data-id="31e99e8" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-testimonial-wrapper">
-                                        <div class="elementor-testimonial-content">I was looking for reliable accounting support, and Accountum India exceeded my expectations. Their team is knowledgeable, organized, and always available to answer my questions. Their services have been a game-changer for my business.</div>
+                                        <div class="elementor-testimonial-content">I was looking for reliable accounting support, and Synthegy Advisors exceeded my expectations. Their team is knowledgeable, organized, and always available to answer my questions. Their services have been a game-changer for my business.</div>
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                             <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
@@ -142,7 +142,7 @@
                                 <div class="elementor-element elementor-element-02e6c99 elementor-widget-mobile__width-initial elementor-widget elementor-widget-testimonial" data-id="02e6c99" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-testimonial-wrapper">
-                                        <div class="elementor-testimonial-content">As a startup, we needed someone to guide us through GST and tax compliance, and Accountum India was perfect for the job. Their support and expertise have been instrumental in keeping us organized and compliant. We’re glad to have found them.</div>
+                                        <div class="elementor-testimonial-content">As a startup, we needed someone to guide us through GST and tax compliance, and Synthegy Advisors was perfect for the job. Their support and expertise have been instrumental in keeping us organized and compliant. We’re glad to have found them.</div>
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                             <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">

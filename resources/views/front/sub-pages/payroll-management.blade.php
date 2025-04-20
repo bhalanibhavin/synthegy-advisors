@@ -19,8 +19,8 @@
                </div>
                <div class="elementor-element elementor-element-4f65432 elementor-widget elementor-widget-text-editor" data-id="4f65432" data-element_type="widget" data-widget_type="text-editor.default">
                   <div class="elementor-widget-container">
-                     <p>Are you looking for payroll management services in&nbsp; India, If yes then you are at right place. Accountum India provide complete employee related services of generating offer letter, pay structure decisions, monthly pay slips, monthly filing of provident fund, ESIC, professional tax, employee bonus, welfare fund, leave management, relieving letter, final settlements etc.</p>
-                     <p>Employee payroll management is essential part of company management. Generally it handle by dedicated HR Department, however such department costs to much as most of the time employee of that department stays on idle mode. We Accountum India provide cheap costing solution as alternative of in house HR department. Our HR &amp; Payroll Management includes obtaining license under various labour law. Mostly labour law license are are professional tax license, provident fund license, esic registration, labour license etc., Compliance of filing monthly return under various law &amp; paying monthly salary with all statutory deduction is routine work for payroll management services in India.</p>
+                     <p>Are you looking for payroll management services in&nbsp; India, If yes then you are at right place. Synthegy Advisors provide complete employee related services of generating offer letter, pay structure decisions, monthly pay slips, monthly filing of provident fund, ESIC, professional tax, employee bonus, welfare fund, leave management, relieving letter, final settlements etc.</p>
+                     <p>Employee payroll management is essential part of company management. Generally it handle by dedicated HR Department, however such department costs to much as most of the time employee of that department stays on idle mode. We Synthegy Advisors provide cheap costing solution as alternative of in house HR department. Our HR &amp; Payroll Management includes obtaining license under various labour law. Mostly labour law license are are professional tax license, provident fund license, esic registration, labour license etc., Compliance of filing monthly return under various law &amp; paying monthly salary with all statutory deduction is routine work for payroll management services in India.</p>
                   </div>
                </div>
             </div>
@@ -114,7 +114,7 @@
       <div class="e-con-inner">
          <div class="elementor-element elementor-element-7f6ed98 elementor-widget elementor-widget-heading" data-id="7f6ed98" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Payroll  Done through Accountum India</h2>
+               <h2 class="elementor-heading-title elementor-size-default">Benefits of Getting Payroll  Done through Synthegy Advisors</h2>
             </div>
          </div>
       </div>
@@ -249,7 +249,7 @@
                                        <form class="elementor-form" method="post" name="New Form">
                                           <input type="hidden" name="post_id" value="635">
                                           <input type="hidden" name="form_id" value="3a2420c">
-                                          <input type="hidden" name="referer_title" value="Payroll Management - Accountum India">
+                                          <input type="hidden" name="referer_title" value="Payroll Management - Synthegy Advisors">
                                           <input type="hidden" name="queried_id" value="635">
                                           <div class="elementor-form-fields-wrapper elementor-labels-above">
                                              <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
